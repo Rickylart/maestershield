@@ -1,6 +1,6 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-co-operate
-mainsite
-liveone
+mainsite/mainsite.zip
+mainsite/public.zip
+
