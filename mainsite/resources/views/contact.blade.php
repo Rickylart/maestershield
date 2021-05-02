@@ -29,7 +29,7 @@
                 <div class="info-box">
                   <i class="bx bx-map"></i>
                   <h3>Our Address</h3>
-                  <p>A108 Adam Street, Ghana, Accra</p>
+                  <p>Ghana, Accra</p>
                 </div>
               </div>
               <div class="col-md-6">
@@ -46,8 +46,9 @@
                 <div class="info-box">
                   <i class="bx bx-phone-call"></i>
                   <h3>Call Us</h3>
-                  <p>+233 555 555 55
-                      {{-- <br>+1 6678 254445 41 --}}
+                  <p>
+                      0302963986<br>
+                      +233 244203205
                   </p>
                 </div>
               </div>

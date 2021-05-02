@@ -6,7 +6,7 @@
         <div class="row">
           <div class="col-lg-6">
             <h4>Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
+            <p>Sign up to know more of our incoming projects</p>
           </div>
           <div class="col-lg-6">
             <form action="" method="post">
@@ -44,10 +44,9 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h4>Contact Us</h4>
             <p>
-              A108 Adam Street <br>
               Ghana, Accra<br>
-              United States <br><br>
-              <strong>Phone:</strong> +233 555 555 55<br>
+              <strong>Phone:</strong> 0302963986<br>
+              <strong>Phone:</strong> +233 244203205<br>
               <strong>Email:</strong> info@maestershield.com<br>
             </p>
 
@@ -55,7 +54,7 @@
 
           <div class="col-lg-3 col-md-6 footer-info">
             <h3>About MaesterShield</h3>
-            <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
+            <p>An Enterprise Development Company in Ghana established three years ago bringing it's expertise to various areas of business.</p>
             <div class="social-links mt-3">
               <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
               <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
@@ -70,7 +69,7 @@
 
     <div class="container">
       <div class="copyright">
-        Copyright &copy; {{ date('Y') }} <strong><span>MaesterShield</span></strong>. All Rights Reserved
+        Copyright &copy; {{ date('Y') }} <strong><span>MaesterShield LTD</span></strong>. All Rights Reserved
       </div>
       <div class="credits">Designed by <a href="https://fasthosttech.com/">Fasthosttech</a>
       </div>

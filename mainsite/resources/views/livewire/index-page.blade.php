@@ -12,24 +12,46 @@
           </div>
       <div class="row">
         <div class="col-lg-6">
-          <img src="assets/img/about.jpg" class="img-fluid" alt="">
+          <img src="{{ asset('assets/img/siteplan/3.jpg') }}" class="img-fluid" alt="">
         </div>
         <div class="col-lg-6 pt-4 pt-lg-0">
-          <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
-          <p class="font-italic">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-            magna aliqua.
-          </p>
-          <ul>
-            <li><i class="icofont-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-            <li><i class="icofont-check-circled"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-            <li><i class="icofont-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
-          </ul>
-          <p>
+          <h3>Maester Shield Ltd. </h3>
+          <p>Is an Enterprise Development Company in Ghana established three years ago bringing it's expertise to various areas of business.</p>
+          <p>business.With the help of it's diversed and experienced team, Maester Shield Ltd. seeks to identify business opportunities and find the best means of capitalizing those oportunities with the aim creating value and improving the living standard of Africans whilst providing reasonable returns for all our investors.</p>
+
+          <p>We Operate in several areas of business such as Real Estate, Tourism, Transportation and Cargo, Agro-business, Mining, Hospitality and Management etc. </p>
+
+          <div class="row">
+            <div class="col-md-6">
+                <p class="font-italic">
+                    Core Values
+                  </p>
+                  <ul>
+                    <li><i class="icofont-check-circled"></i>Creativity</li>
+                    <li><i class="icofont-check-circled"></i> Value Creation</li>
+                    <li><i class="icofont-check-circled"></i> Excellence</li>
+                  </ul>
+              </div>
+
+              <div class="col-md-6">
+                <p class="font-italic">
+                    Key Strategies
+                  </p>
+                  <ul>
+                    <li><i class="icofont-check-circled"></i>Intergrity</li>
+                    <li><i class="icofont-check-circled"></i> Competence</li>
+                    <li><i class="icofont-check-circled"></i> Accountability</li>
+                  </ul>
+              </div>
+          </div>
+
+
+
+          {{-- <p>
             Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
             velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
             culpa qui officia deserunt mollit anim id est laborum
-          </p>
+          </p> --}}
         </div>
       </div>
 
@@ -41,8 +63,8 @@
           <div class="container">
 
             <div class="section-title">
-              <h2>What We Offer</h2>
-              <p>Below are the servies and products we offer to the general public</p>
+              <h2>New Projects</h2>
+              {{-- <p>Below are the servies and products we offer to the general public</p> --}}
             </div>
 
             <div class="row" data-aos="fade-up">
@@ -50,19 +72,36 @@
                 <img src="{{ asset('assets/img/hotel.jpg') }}" class="img-fluid" alt="">
               </div>
               <div class="col-md-7 pt-4">
-                <h3>Well Relax cool hotel.</h3>
+                <h3>The Dondo Project .</h3>
                 <p class="font-italic">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                  magna aliqua.
+                    Project is a new brainchild state of the art facility that is proposed to be located at Alliance Francaise,Airport Residential, in the capital city of Ghana-Accra.
+                    It will include :
                 </p>
-                <ul>
-                  <li><i class="icofont-check"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                  <li><i class="icofont-check"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                </ul>
+                <div class="row">
+                    <div class="col-md-6">
+                        <ul>
+                            <li><i class="icofont-check"></i>An ultra-modern multi-purpose Auditorium</li>
+                            <li><i class="icofont-check"></i> A Shopping Mall</li>
+                            <li><i class="icofont-check"></i>240 esquisite hotel rooms</li>
+                          </ul>
+                    </div>
+
+                    <div class="col-md-6">
+                        <ul>
+                            <li><i class="icofont-check"></i>64 Capacity conference room</li>
+                            <li><i class="icofont-check"></i>Airport shuttle</li>
+                            <li><i class="icofont-check"></i>A helicopter service from a helipad and many more</li>
+                          </ul>
+                    </div>
+
+                </div>
+                <p class="font-italic">
+                    The Dondo facility will be the first of it kind in the history of Ghana.
+                </p>
               </div>
             </div>
 
-            <div class="row" data-aos="fade-up">
+            {{-- <div class="row" data-aos="fade-up">
               <div class="col-md-5 order-1 order-md-2">
                 <img src="{{ asset('assets/img/aud.jpg') }}" class="img-fluid" alt="">
               </div>
@@ -93,31 +132,13 @@
                   <li><i class="icofont-check"></i> Facilis ut et voluptatem aperiam. Autem soluta ad fugiat.</li>
                 </ul>
               </div>
-            </div>
-
-            {{-- <div class="row" data-aos="fade-up">
-              <div class="col-md-5 order-1 order-md-2">
-                <img src="assets/img/features-4.svg" class="img-fluid" alt="">
-              </div>
-              <div class="col-md-7 pt-5 order-2 order-md-1">
-                <h3>Quas et necessitatibus eaque impedit ipsum animi consequatur incidunt in</h3>
-                <p class="font-italic">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                  magna aliqua.
-                </p>
-                <p>
-                  Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                  velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                  culpa qui officia deserunt mollit anim id est laborum
-                </p>
-              </div>
             </div> --}}
 
           </div>
         </section><!-- End Features Section -->
 
         <!-- ======= Tetstimonials Section ======= -->
-    <section class="testimonials" data-aos="fade-up">
+    {{-- <section class="testimonials" data-aos="fade-up">
       <div class="container">
 
         <div class="section-title">
@@ -185,6 +206,6 @@
         </div>
 
       </div>
-    </section>
+    </section> --}}
     <!-- End Ttstimonials Section -->
 </div>

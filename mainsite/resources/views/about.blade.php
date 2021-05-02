@@ -22,24 +22,38 @@
 
         <div class="row">
           <div class="col-lg-6">
-            <img src="assets/img/about.jpg" class="img-fluid" alt="">
+            <img src="{{ asset('assets/img/siteplan/3.jpg') }}" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
-            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
-            <p class="font-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
-            <ul>
-              <li><i class="icofont-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="icofont-check-circled"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="icofont-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
-            </ul>
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
-            </p>
+            <h3>Maester Shield Ltd. </h3>
+            <p>Is an Enterprise Development Company in Ghana established three years ago bringing it's expertise to various areas of business.</p>
+            <p>business.With the help of it's diversed and experienced team, Maester Shield Ltd. seeks to identify business opportunities and find the best means of capitalizing those oportunities with the aim creating value and improving the living standard of Africans whilst providing reasonable returns for all our investors.</p>
+
+            <p>We Operate in several areas of business such as Real Estate, Tourism, Transportation and Cargo, Agro-business, Mining, Hospitality and Management etc. </p>
+
+            <div class="row">
+              <div class="col-md-6">
+                  <p class="font-italic">
+                      Core Values
+                    </p>
+                    <ul>
+                      <li><i class="icofont-check-circled"></i>Creativity</li>
+                      <li><i class="icofont-check-circled"></i> Value Creation</li>
+                      <li><i class="icofont-check-circled"></i> Excellence</li>
+                    </ul>
+                </div>
+
+                <div class="col-md-6">
+                  <p class="font-italic">
+                      Key Strategies
+                    </p>
+                    <ul>
+                      <li><i class="icofont-check-circled"></i>Intergrity</li>
+                      <li><i class="icofont-check-circled"></i> Competence</li>
+                      <li><i class="icofont-check-circled"></i> Accountability</li>
+                    </ul>
+                </div>
+            </div>
           </div>
         </div>
 
@@ -47,7 +61,7 @@
     </section><!-- End About Section -->
 
     <!-- ======= Facts Section ======= -->
-    <section class="facts section-bg" data-aos="fade-up">
+    {{-- <section class="facts section-bg" data-aos="fade-up">
       <div class="container">
 
         <div class="row counters">
@@ -75,7 +89,8 @@
         </div>
 
       </div>
-    </section><!-- End Facts Section -->
+    </section> --}}
+    <!-- End Facts Section -->
 
      <!-- ======= Service Details Section ======= -->
      <section class="service-details">
@@ -88,9 +103,9 @@
                   <img src="assets/img/service-details-1.jpg" alt="...">
                 </div>
                 <div class="card-body">
-                  <h5 class="card-title"><a href="#">Our Mission</a></h5>
-                  <p class="card-text">Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
-                  <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Read More</a></div>
+                  <h5 class="card-title"><a href="#">BUSINESS OVERVIEW</a></h5>
+                  <p class="card-text">The Dondo Facility which is the brainchild of MAESTER SHEILD LTD. would be located at Opeibea behind Alliance Francaise d’ Accra. It would be a new state of the art facility, which would mainly embody a luxurious Dondo Hotel, an ultra-modern multi-purpose Auditorium and a Shopping Mall. The Dondo facility would be the first of its kind in the history of Ghana and West Africa.</p>
+                  {{-- <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Read More</a></div> --}}
                 </div>
               </div>
             </div>
@@ -100,8 +115,8 @@
                   <img src="assets/img/service-details-2.jpg" alt="...">
                 </div>
                 <div class="card-body">
-                  <h5 class="card-title"><a href="#">Our Plan</a></h5>
-                  <p class="card-text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo</p>
+                  <h5 class="card-title"><a href="#">OUR SERVICES</a></h5>
+                  <p class="card-text">The Dondo Hotel is to be a classy and fabulous hotel with 240 exquisite rooms, high class furniture with modern technology, offering exclusive  hotel services such as; daily room cleaning, daily laundry services,  60 capacity conference room, Airport shuttle, sauna rooms, smoking areas, personal grooming, Jacuzzi, free WIFI, a helicopter service from a helipad and many more modern services that will delight the customer.</p>
                   <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Read More</a></div>
                 </div>
               </div>
@@ -113,8 +128,8 @@
                   <img src="assets/img/service-details-3.jpg" alt="...">
                 </div>
                 <div class="card-body">
-                  <h5 class="card-title"><a href="#">Our Vision</a></h5>
-                  <p class="card-text">Nemo enim ipsam voluptatem quia voluptas sit aut odit aut fugit, sed quia magni dolores eos qui ratione voluptatem sequi nesciunt Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet</p>
+                  <h5 class="card-title"><a href="#">CUSTOMER FOCUS</a></h5>
+                  <p class="card-text">The Dondo hotel will primarily serve customers who seek comfort, ultra-modern amenities,adequate car parking space in and underground car parking lots, high level of security at an enviable price and above all, comfort like never before seen in the hospitality industry in Africa.</p>
                   <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Read More</a></div>
                 </div>
               </div>
@@ -125,8 +140,11 @@
                   <img src="assets/img/service-details-4.jpg" alt="...">
                 </div>
                 <div class="card-body">
-                  <h5 class="card-title"><a href="#">Our Care</a></h5>
-                  <p class="card-text">Nostrum eum sed et autem dolorum perspiciatis. Magni porro quisquam laudantium voluptatem. In molestiae earum ab sit esse voluptatem. Eos ipsam cumque ipsum officiis qui nihil aut incidunt aut</p>
+                  <h5 class="card-title"><a href="#">SUCCESS FACTORS</a></h5>
+                  <p class="card-text">Maester Shield Ltd is uniquely positioned to succeed due to the following reasons;</p>
+                  <ul>
+                      <li>Our location is central to the downtown, Airport and the corporate districts of the city making it the ideal spot for relaxation, comfort and luxury.</li>
+                  </ul>
                   <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Read More</a></div>
                 </div>
               </div>
