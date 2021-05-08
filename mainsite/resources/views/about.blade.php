@@ -22,12 +22,12 @@
 
         <div class="row">
           <div class="col-lg-6">
-            <img src="{{ asset('assets/img/siteplan/3.jpg') }}" class="img-fluid" alt="">
+            <img src="{{ asset('assets/img/index.jpg') }}" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
             <h3>Maester Shield Ltd. </h3>
-            <p>Is an Enterprise Development Company in Ghana established three years ago bringing it's expertise to various areas of business.</p>
-            <p>business.With the help of it's diversed and experienced team, Maester Shield Ltd. seeks to identify business opportunities and find the best means of capitalizing those oportunities with the aim creating value and improving the living standard of Africans whilst providing reasonable returns for all our investors.</p>
+            <p>Is an Enterprise Development Company in Ghana established in 2018 bringing it's expertise to various areas of business.</p>
+            <p>With the help of it's diversed and experienced team, Maester Shield Ltd. seeks to identify business opportunities and find the best means of capitalizing those oportunities with the aim creating value and improving the living standard of Africans whilst providing reasonable returns for all our investors.</p>
 
             <p>We Operate in several areas of business such as Real Estate, Tourism, Transportation and Cargo, Agro-business, Mining, Hospitality and Management etc. </p>
 
@@ -117,7 +117,7 @@
                 <div class="card-body">
                   <h5 class="card-title"><a href="#">OUR SERVICES</a></h5>
                   <p class="card-text">The Dondo Hotel is to be a classy and fabulous hotel with 240 exquisite rooms, high class furniture with modern technology, offering exclusive  hotel services such as; daily room cleaning, daily laundry services,  60 capacity conference room, Airport shuttle, sauna rooms, smoking areas, personal grooming, Jacuzzi, free WIFI, a helicopter service from a helipad and many more modern services that will delight the customer.</p>
-                  <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Read More</a></div>
+                  <div class="read-more"><a href="{{ route('dondo') }}"><i class="icofont-arrow-right"></i> Read More</a></div>
                 </div>
               </div>
 
@@ -130,7 +130,7 @@
                 <div class="card-body">
                   <h5 class="card-title"><a href="#">CUSTOMER FOCUS</a></h5>
                   <p class="card-text">The Dondo hotel will primarily serve customers who seek comfort, ultra-modern amenities,adequate car parking space in and underground car parking lots, high level of security at an enviable price and above all, comfort like never before seen in the hospitality industry in Africa.</p>
-                  <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Read More</a></div>
+                  {{-- <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Read More</a></div> --}}
                 </div>
               </div>
             </div>
@@ -145,7 +145,7 @@
                   <ul>
                       <li>Our location is central to the downtown, Airport and the corporate districts of the city making it the ideal spot for relaxation, comfort and luxury.</li>
                   </ul>
-                  <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Read More</a></div>
+                  {{-- <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Read More</a></div> --}}
                 </div>
               </div>
             </div>

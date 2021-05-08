@@ -27,10 +27,10 @@
 
       <div class="row" data-aos="fade-up">
         <div class="col-md-5">
-          <img src="{{ asset('assets/img/hotel.jpg') }}" class="img-fluid" alt="">
+          <img src="{{ asset('assets/img/dudo.jpeg') }}" class="img-fluid" alt="">
         </div>
         <div class="col-md-7 pt-4">
-          <h3>The Dondo Project .</h3>
+          <h3><a href="{{ route('dondo') }}">The Dondo Project</a></h3>
           <p class="font-italic">
               Project is a new brainchild state of the art facility that is proposed to be located at Alliance Francaise,Airport Residential, in the capital city of Ghana-Accra.
               It will include :
@@ -56,6 +56,8 @@
           <p class="font-italic">
               The Dondo facility will be the first of it kind in the history of Ghana.
           </p>
+
+          <a href="{{ route('dondo') }}" class="btn btn-outline-warning btn-md">Read More On This Project</a>
         </div>
       </div>
 

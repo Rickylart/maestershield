@@ -25,6 +25,45 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
+                <img src="{{ asset('assets/img/1.jpeg') }}" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="icofont-twitter"></i></a>
+                  <a href=""><i class="icofont-facebook"></i></a>
+                  <a href=""><i class="icofont-instagram"></i></a>
+                  <a href=""><i class="icofont-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>EEDIE LYON OFEI</h4>
+                <span>CHIEF EXECUTIVE OFFICER </span>
+                <a href="{{ route('eddie') }}">Read Profile</a></>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <div class="member-img">
+                <img src="{{ asset('assets/img/2.jpeg') }}" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="icofont-twitter"></i></a>
+                  <a href=""><i class="icofont-facebook"></i></a>
+                  <a href=""><i class="icofont-instagram"></i></a>
+                  <a href=""><i class="icofont-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>SANDRA OFOSU AMPOFO</h4>
+                <span>CHIEF OPERATING OFFICER</span>
+                <p><a href="http://">Read Profile</a></p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <div class="member-img">
                 <img src="{{ asset('assets/img/3.jpeg') }}" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="icofont-twitter"></i></a>
@@ -34,18 +73,17 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Valerie Aku Eli</h4>
-                <span>Chief Executive Officer</span>
-                <p>Valerie Aku Eli joined Maester Shield Ltd in January 2019 as the Chief Financial Officer. She vividly oversees the company's overall financial activities including treasury, analysis, investor relations and financial operations. Due to her fitness and outstanding charisma, she always want to be called “ Valerie the Bold” which much positive response of tackling issues in her working space.</p>
+                <h4>ERNEST FRANCISCO TETTEH DOKU</h4>
+                <span>EXECUTIVE SECRETARY</span>
+                <p><a href="http://">Read Profile</a></p>
               </div>
             </div>
           </div>
 
-
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="{{ asset('assets/img/2.jpg') }}" class="img-fluid" alt="">
+                <img src="{{ asset('assets/img/4.jpeg') }}" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="icofont-twitter"></i></a>
                   <a href=""><i class="icofont-facebook"></i></a>
@@ -54,9 +92,9 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Sandra</h4>
-                <span>Product Manager</span>
-                {{-- <p>Ut enim possimus nihil cupiditate beatae. Veniam facere quae non qui necessitatibus rerum eos vero. Maxime sit sunt quo dolor autem est qui quaerat aliquid. Tenetur possimus qui enim.</p> --}}
+                <h4>VALERIE AKU ELI</h4>
+                <span>CHIEF EXECUTIVE OFFICER</span>
+                <p><a href="http://">Read Profile</a></p>
               </div>
             </div>
           </div>
@@ -64,7 +102,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="{{ asset('assets/img/1.jpg') }}" class="img-fluid" alt="">
+                <img src="{{ asset('assets/img/7.jpeg') }}" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="icofont-twitter"></i></a>
                   <a href=""><i class="icofont-facebook"></i></a>
@@ -73,9 +111,48 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Isaac Kwaku Nyarko</h4>
-                <span>Driver and Consultant</span>
-                <p>Isaac Kwaku Nyarko joined Maester Shield Ltd. In January 2018 as a driver and Consultant. Before then, he served at Almarai Food Company - Saudi Arabia as a first class trained professional driver and an Auto technical advicer. He speaks Arabic, English and fluent in Hausa. He is a graduate of  Government Technical Training Center - Ghana (GovTTC)</p>
+                <h4>FRANCIS RICK LARTEY</h4>
+                <span>INFORMATION TECHNOLOGY EXECUTIVE</span>
+                <p><a href="http://">Read Profile</a></p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <div class="member-img">
+                <img src="{{ asset('assets/img/8.jpeg') }}" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="icofont-twitter"></i></a>
+                  <a href=""><i class="icofont-facebook"></i></a>
+                  <a href=""><i class="icofont-instagram"></i></a>
+                  <a href=""><i class="icofont-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>KINGSLEY OWUSU YEBOAH </h4>
+                <span>HEAD OF ADMINISTRATION</span>
+                <p><a href="http://">Read Profile</a></p>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <div class="member-img">
+                <img src="{{ asset('assets/img/11.jpg') }}" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="icofont-twitter"></i></a>
+                  <a href=""><i class="icofont-facebook"></i></a>
+                  <a href=""><i class="icofont-instagram"></i></a>
+                  <a href=""><i class="icofont-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>ISAAC KWAKU NYARKO</h4>
+                <span>DRIVER AND CONSULTANT</span>
+                <p><a href="http://">Read Profile</a></p>
               </div>
             </div>
           </div>

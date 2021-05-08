@@ -3,4 +3,6 @@
 # dependencies
 mainsite/mainsite.zip
 mainsite/public.zip
+mainsite/node_modules
+mainsite/vendor
 

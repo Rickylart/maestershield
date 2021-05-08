@@ -12,12 +12,12 @@
           </div>
       <div class="row">
         <div class="col-lg-6">
-          <img src="{{ asset('assets/img/siteplan/3.jpg') }}" class="img-fluid" alt="">
+          <img src="{{ asset('assets/img/index.jpg') }}" class="img-fluid" alt="">
         </div>
         <div class="col-lg-6 pt-4 pt-lg-0">
           <h3>Maester Shield Ltd. </h3>
           <p>Is an Enterprise Development Company in Ghana established three years ago bringing it's expertise to various areas of business.</p>
-          <p>business.With the help of it's diversed and experienced team, Maester Shield Ltd. seeks to identify business opportunities and find the best means of capitalizing those oportunities with the aim creating value and improving the living standard of Africans whilst providing reasonable returns for all our investors.</p>
+          <p>With the help of it's diversed and experienced team, Maester Shield Ltd. seeks to identify business opportunities and find the best means of capitalizing those oportunities with the aim creating value and improving the living standard of Africans whilst providing reasonable returns for all our investors.</p>
 
           <p>We Operate in several areas of business such as Real Estate, Tourism, Transportation and Cargo, Agro-business, Mining, Hospitality and Management etc. </p>
 
@@ -69,10 +69,10 @@
 
             <div class="row" data-aos="fade-up">
               <div class="col-md-5">
-                <img src="{{ asset('assets/img/hotel.jpg') }}" class="img-fluid" alt="">
+                <img src="{{ asset('assets/img/dudo.jpeg') }}" class="img-fluid" alt="">
               </div>
               <div class="col-md-7 pt-4">
-                <h3>The Dondo Project .</h3>
+                <h3><a href="{{ route('dondo') }}">The Dondo Project </a></h3>
                 <p class="font-italic">
                     Project is a new brainchild state of the art facility that is proposed to be located at Alliance Francaise,Airport Residential, in the capital city of Ghana-Accra.
                     It will include :

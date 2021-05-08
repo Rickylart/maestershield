@@ -52,6 +52,15 @@ Route::get('/contact', function () {
     return view('contact');
 })->name('contact');
 
+Route::get('/dondo', function () {
+    return view('dondo');
+})->name('dondo');
+
+//team details
+Route::get('/eddie', function () {
+    return view('eddie');
+})->name('eddie');
+
 
 
 
