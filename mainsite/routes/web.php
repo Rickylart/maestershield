@@ -60,6 +60,24 @@ Route::get('/dondo', function () {
 Route::get('/eddie', function () {
     return view('eddie');
 })->name('eddie');
+Route::get('/sandra', function () {
+    return view('sandra');
+})->name('sandra');
+Route::get('/ernest', function () {
+    return view('ernest');
+})->name('ernest');
+Route::get('/francisrick', function () {
+    return view('francisrick');
+})->name('francisrick');
+Route::get('/owusu', function () {
+    return view('owusu');
+})->name('owusu');
+Route::get('/valerie', function () {
+    return view('valerie');
+})->name('valerie');
+Route::get('/isaac', function () {
+    return view('isaac');
+})->name('isaac');
 
 
 

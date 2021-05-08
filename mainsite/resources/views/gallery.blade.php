@@ -24,9 +24,9 @@
           <div class="col-lg-12">
             <ul id="portfolio-flters">
               <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">Hotel</li>
-              <li data-filter=".filter-card">Maester Mall</li>
-              <li data-filter=".filter-web">Maester Auditorium</li>
+              <li data-filter=".filter-app">Dondo Hotel</li>
+              {{-- <li data-filter=".filter-card">Maester Mall</li>
+              <li data-filter=".filter-web">Maester Auditorium</li> --}}
             </ul>
           </div>
         </div>
@@ -35,15 +35,15 @@
 
           <div class="col-lg-4 col-md-6 filter-app">
             <div class="portfolio-item">
-              <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+              <img src="assets/img/siteplan/3.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h3><a href="assets/img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox" title="App 1">App 1</a></h3>
-                <a href="assets/img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="icofont-plus"></i></a>
+                <h3><a href="assets/img/siteplan/3.jpg" data-gall="portfolioGallery" class="venobox" title="App 1">Corner View</a></h3>
+                <a href="assets/img/siteplan/3.jpg" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="icofont-plus"></i></a>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 filter-web">
+          {{-- <div class="col-lg-4 col-md-6 filter-web">
             <div class="portfolio-item">
               <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
@@ -51,19 +51,19 @@
                 <a href="assets/img/portfolio/portfolio-2.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="icofont-plus"></i></a>
               </div>
             </div>
-          </div>
+          </div> --}}
 
           <div class="col-lg-4 col-md-6 filter-app">
             <div class="portfolio-item">
-              <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+              <img src="assets/img/siteplan/4.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h3><a href="assets/img/portfolio/portfolio-3.jpg" data-gall="portfolioGallery" class="venobox" title="App 2">App 2</a></h3>
-                <a href="assets/img/portfolio/portfolio-3.jpg" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="icofont-plus"></i></a>
+                <h3><a href="assets/img/siteplan/4.jpg" data-gall="portfolioGallery" class="venobox" title="App 2">Side View</a></h3>
+                <a href="assets/img/siteplan/4.jpg" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="icofont-plus"></i></a>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 filter-card">
+          {{-- <div class="col-lg-4 col-md-6 filter-card">
             <div class="portfolio-item">
               <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
@@ -81,19 +81,19 @@
                 <a href="assets/img/portfolio/portfolio-5.jpg" data-gall="portfolioGallery" class="venobox" title="Web 2"><i class="icofont-plus"></i></a>
               </div>
             </div>
-          </div>
+          </div> --}}
 
           <div class="col-lg-4 col-md-6 filter-app">
             <div class="portfolio-item">
-              <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
+              <img src="assets/img/siteplan/5.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h3><a href="assets/img/portfolio/portfolio-6.jpg" data-gall="portfolioGallery" class="venobox" title="App 3">App 3</a></h3>
-                <a href="assets/img/portfolio/portfolio-6.jpg" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="icofont-plus"></i></a>
+                <h3><a href="assets/img/siteplan/5.jpg" data-gall="portfolioGallery" class="venobox" title="App 3">Back View</a></h3>
+                <a href="assets/img/siteplan/5.jpg" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="icofont-plus"></i></a>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 filter-card">
+          {{-- <div class="col-lg-4 col-md-6 filter-card">
             <div class="portfolio-item">
               <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
@@ -121,7 +121,7 @@
                 <a href="assets/img/portfolio/portfolio-9.jpg" data-gall="portfolioGallery" class="venobox" title="Web 1"><i class="icofont-plus"></i></a>
               </div>
             </div>
-          </div>
+          </div> --}}
 
         </div>
 

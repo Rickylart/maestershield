@@ -6,19 +6,19 @@
       <div class="carousel-item active">
         <div class="carousel-container">
           <h2 class="animated fadeInDown">Welcome to <span>MaesterShield LTD.</span></h2>
-          <p class="animated fadeInUp">An Enterprise Development Company in Ghana established three years ago bringing it's expertise to various areas of business.</p>
-          <a href="{{ route('about') }}" class="btn-get-started animated fadeInUp">Read More</a>
+          {{-- <p class="animated fadeInUp">An Enterprise Development Company in Ghana established three years ago bringing it's expertise to various areas of business.</p>
+          <a href="{{ route('about') }}" class="btn-get-started animated fadeInUp">Read More</a> --}}
         </div>
       </div>
 
       <!-- Slide 2 -->
-      <div class="carousel-item">
+      {{-- <div class="carousel-item">
         <div class="carousel-container">
           <h2 class="animated fadeInDown">Maester Shield LTD.</h2>
           <p class="animated fadeInUp"> Seeks to identify business opportunities and find the best means of capitalizing those oportunities with the aim creating value and improving the living standard of Africans whilst providing reasonable returns for all our investors.</p>
           <a href="{{ route('about') }}" class="btn-get-started animated fadeInUp">Read More</a>
         </div>
-      </div>
+      </div> --}}
 
       <!-- Slide 3 -->
       {{-- <div class="carousel-item">

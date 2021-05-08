@@ -56,7 +56,7 @@
               <div class="member-info">
                 <h4>SANDRA OFOSU AMPOFO</h4>
                 <span>CHIEF OPERATING OFFICER</span>
-                <p><a href="http://">Read Profile</a></p>
+                <p><a href="{{ route('sandra') }}">Read Profile</a></p>
               </div>
             </div>
           </div>
@@ -75,7 +75,7 @@
               <div class="member-info">
                 <h4>ERNEST FRANCISCO TETTEH DOKU</h4>
                 <span>EXECUTIVE SECRETARY</span>
-                <p><a href="http://">Read Profile</a></p>
+                <p><a href="{{ route('ernest') }}">Read Profile</a></p>
               </div>
             </div>
           </div>
@@ -93,8 +93,8 @@
               </div>
               <div class="member-info">
                 <h4>VALERIE AKU ELI</h4>
-                <span>CHIEF EXECUTIVE OFFICER</span>
-                <p><a href="http://">Read Profile</a></p>
+                <span>CHIEF FINANCIAL OFFICER</span>
+                <p><a href="{{ route('valerie') }}">Read Profile</a></p>
               </div>
             </div>
           </div>
@@ -113,7 +113,7 @@
               <div class="member-info">
                 <h4>FRANCIS RICK LARTEY</h4>
                 <span>INFORMATION TECHNOLOGY EXECUTIVE</span>
-                <p><a href="http://">Read Profile</a></p>
+                <p><a href="{{ route('francisrick') }}">Read Profile</a></p>
               </div>
             </div>
           </div>
@@ -132,7 +132,7 @@
               <div class="member-info">
                 <h4>KINGSLEY OWUSU YEBOAH </h4>
                 <span>HEAD OF ADMINISTRATION</span>
-                <p><a href="http://">Read Profile</a></p>
+                <p><a href="{{ route('owusu') }}">Read Profile</a></p>
               </div>
             </div>
           </div>
@@ -152,7 +152,7 @@
               <div class="member-info">
                 <h4>ISAAC KWAKU NYARKO</h4>
                 <span>DRIVER AND CONSULTANT</span>
-                <p><a href="http://">Read Profile</a></p>
+                <p><a href="{{ route('isaac') }}">Read Profile</a></p>
               </div>
             </div>
           </div>
