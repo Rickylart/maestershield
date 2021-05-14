@@ -1,5 +1,5 @@
 @extends('layouts.main')
-@section('title',"Eddie's Profile")
+@section('title',"Ricks's Profile")
 @section('content')
     <!-- ======= Our Portfolio Section ======= -->
     <section class="breadcrumbs">
@@ -27,7 +27,7 @@
 
       <div class="row" data-aos="fade-up">
         <div class="col-md-5">
-          <img src="{{ asset('assets/img/7.jpeg') }}" class="img-fluid" alt="">
+          <img src="{{ asset('assets/img/7.jpg') }}" class="img-fluid" alt="">
         </div>
         <div class="col-md-7 pt-4">
           <h3 style="color:#D4AF37">INFORMATION TECHNOLOGY EXECUTIVE </h3>

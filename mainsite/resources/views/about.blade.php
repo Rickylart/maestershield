@@ -22,7 +22,7 @@
 
         <div class="row">
           <div class="col-lg-6">
-            <img src="{{ asset('assets/img/index.jpg') }}" class="img-fluid" alt="">
+            <img src="{{ asset('assets/img/index.jpg') }}" style="height: 38rem" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
             <h3>Maester Shield Ltd. </h3>
@@ -32,27 +32,31 @@
             <p>We Operate in several areas of business such as Real Estate, Tourism, Transportation and Cargo, Agro-business, Mining, Hospitality and Management etc. </p>
 
             <div class="row">
-              <div class="col-md-6">
-                  <p class="font-italic">
-                      Core Values
-                    </p>
-                    <ul>
-                      <li><i class="icofont-check-circled"></i>Creativity</li>
-                      <li><i class="icofont-check-circled"></i> Value Creation</li>
-                      <li><i class="icofont-check-circled"></i> Excellence</li>
-                    </ul>
-                </div>
-
                 <div class="col-md-6">
-                  <p class="font-italic">
-                      Key Strategies
-                    </p>
-                    <ul>
-                      <li><i class="icofont-check-circled"></i>Intergrity</li>
-                      <li><i class="icofont-check-circled"></i> Competence</li>
-                      <li><i class="icofont-check-circled"></i> Accountability</li>
-                    </ul>
-                </div>
+                    <p class="font-italic">
+                      <h4>Core Values</h4>
+                      </p>
+                      <ul>
+                        <li><i class="icofont-check-circled"></i>Creativity</li>
+                        <li><i class="icofont-check-circled"></i> Value Creation</li>
+                        <li><i class="icofont-check-circled"></i> Excellence</li>
+                        <li><i class="icofont-check-circled"></i>Intergrity</li>
+                        <li><i class="icofont-check-circled"></i> Competence</li>
+                        <li><i class="icofont-check-circled"></i> Accountability</li>
+                      </ul>
+                  </div>
+
+                  <div class="col-md-6">
+                    <p class="font-italic">
+                       <h4>Key Strategies</h4>
+                      </p>
+                      <ul>
+                        <li><i class=""></i>Strategic alliance and partnership</li>
+                        <li><i class=""></i> Cost effectiveness</li>
+                        <li><i class=""></i> Technology and information management</li>
+                        <li><i class=""></i> Operational improvement</li>
+                      </ul>
+                  </div>
             </div>
           </div>
         </div>
@@ -117,7 +121,7 @@
                 <div class="card-body">
                   <h5 class="card-title"><a href="#">OUR SERVICES</a></h5>
                   <p class="card-text">The Dondo Hotel is to be a classy and fabulous hotel with 240 exquisite rooms, high class furniture with modern technology, offering exclusive  hotel services such as; daily room cleaning, daily laundry services,  60 capacity conference room, Airport shuttle, sauna rooms, smoking areas, personal grooming, Jacuzzi, free WIFI, a helicopter service from a helipad and many more modern services that will delight the customer.</p>
-                  <div class="read-more"><a href="{{ route('dondo') }}"><i class="icofont-arrow-right"></i> Read More</a></div>
+                  <div class="read-more"><a href="{{ route('dondo') }}" style="color: #D4AF37"><i class="icofont-arrow-right"></i> Read More</a></div>
                 </div>
               </div>
 

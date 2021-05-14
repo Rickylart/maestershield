@@ -1,5 +1,5 @@
 @extends('layouts.main')
-@section('title',"Eddie's Profile")
+@section('title',"Isaac's Profile")
 @section('content')
     <!-- ======= Our Portfolio Section ======= -->
     <section class="breadcrumbs">
@@ -30,9 +30,9 @@
           <img src="{{ asset('assets/img/11.jpg') }}" class="img-fluid" alt="">
         </div>
         <div class="col-md-7 pt-4">
-          <h3 style="color:#D4AF37"> DRIVER AND CONSULTANT</h3>
+          <h3 style="color:#D4AF37"> AUTOMOTIVE MECHANICAL INSPECTOR</h3>
           <p class="font-italic">
-            Isaac Kwaku Nyarko joined Maester Shield Ltd. In January 2018 as a driver and Consultant. Before then, he served at Almarai Food Company - Saudi Arabia as a first class trained professional driver and an Auto technical advicer. He speaks Arabic, English and fluent in Hausa. He is a graduate of  Government Technical Training Center - Ghana (GovTTC). Due to his engorged love for Automobile, He always repairs, service and assemble vehicle for the fun of it. As well, he is a great team player and has seventeen(17) years post qualification experience in auto mechanic's service and repairs, Consultancy and Information Technology IT and currently work as the Head of Auto Mechanic and Consultancy services at Maester Shield Ltd.
+            Isaac Kwaku Nyarko joined Maester Shield Ltd. In January 2018 as a AUTOMOTIVE MECHANICAL INSPECTOR. Before then, he served at Almarai Food Company - Saudi Arabia as a first class trained professional driver and an Auto technical advicer. He speaks Arabic, English and fluent in Hausa. He is a graduate of  Government Technical Training Center - Ghana (GovTTC). Due to his engorged love for Automobile, He always repairs, service and assemble vehicle for the fun of it. As well, he is a great team player and has seventeen(17) years post qualification experience in auto mechanic's service and repairs, Consultancy and Information Technology IT and currently work as the Head of Auto Mechanic and Consultancy services at Maester Shield Ltd.
           </p>
           {{-- <p class="font-italic">
             Valerie, is a very responsible mother and blessed with three (3) wonderful kids. Prior to becoming the senior CFO in May 2020, she served as the Client Engagement Officer for the Trust Bank Limited in Ghana for seven (7) years and was later promoted to the office of the Branch Reconciliation and investigation - Accra , where she was responsible for handling the monthly reconciliation of the branch's general ledger account, daily review and monitoring of all G/L accounts of the Branch and also to investigate all outstanding items and reverse them correctly. Prior after 2011 in her splendid career, she then joined Ecobank Ghana and has respectfully risen through to the top and she was later appointed as the Agency Inspector branched, Kasoa - Ghana.

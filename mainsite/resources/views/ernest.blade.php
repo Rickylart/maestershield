@@ -1,5 +1,5 @@
 @extends('layouts.main')
-@section('title',"Eddie's Profile")
+@section('title',"Ernest's Profile")
 @section('content')
     <!-- ======= Our Portfolio Section ======= -->
     <section class="breadcrumbs">

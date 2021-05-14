@@ -12,7 +12,7 @@
           </div>
       <div class="row">
         <div class="col-lg-6">
-          <img src="{{ asset('assets/img/index.jpg') }}" class="img-fluid" alt="">
+          <img src="{{ asset('assets/img/index.jpg') }}" style="height: 38rem" class="img-fluid" alt="">
         </div>
         <div class="col-lg-6 pt-4 pt-lg-0">
           <h3>Maester Shield Ltd. </h3>
@@ -24,23 +24,27 @@
           <div class="row">
             <div class="col-md-6">
                 <p class="font-italic">
-                    Core Values
+                  <h4>Core Values</h4>
                   </p>
                   <ul>
                     <li><i class="icofont-check-circled"></i>Creativity</li>
                     <li><i class="icofont-check-circled"></i> Value Creation</li>
                     <li><i class="icofont-check-circled"></i> Excellence</li>
+                    <li><i class="icofont-check-circled"></i>Intergrity</li>
+                    <li><i class="icofont-check-circled"></i> Competence</li>
+                    <li><i class="icofont-check-circled"></i> Accountability</li>
                   </ul>
               </div>
 
               <div class="col-md-6">
                 <p class="font-italic">
-                    Key Strategies
+                   <h4>Key Strategies</h4>
                   </p>
                   <ul>
-                    <li><i class="icofont-check-circled"></i>Intergrity</li>
-                    <li><i class="icofont-check-circled"></i> Competence</li>
-                    <li><i class="icofont-check-circled"></i> Accountability</li>
+                    <li><i class=""></i>Strategic alliance and partnership</li>
+                    <li><i class=""></i> Cost effectiveness</li>
+                    <li><i class=""></i> Technology and information management</li>
+                    <li><i class=""></i> Operational improvement</li>
                   </ul>
               </div>
           </div>

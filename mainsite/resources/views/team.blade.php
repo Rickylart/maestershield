@@ -25,7 +25,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="{{ asset('assets/img/1.jpeg') }}" class="img-fluid" alt="">
+                <img src="{{ asset('assets/img/1.jpeg') }}" style="height: 20rem" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="icofont-twitter"></i></a>
                   <a href=""><i class="icofont-facebook"></i></a>
@@ -36,7 +36,7 @@
               <div class="member-info">
                 <h4>EEDIE LYON OFEI</h4>
                 <span>CHIEF EXECUTIVE OFFICER </span>
-                <a href="{{ route('eddie') }}">Read Profile</a></>
+                <p><a href="{{ route('eddie') }}">Read Profile</a></p>
               </div>
             </div>
           </div>
@@ -45,7 +45,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="{{ asset('assets/img/2.jpeg') }}" class="img-fluid" alt="">
+                <img src="{{ asset('assets/img/2.jpeg') }}" style="height: 20rem" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="icofont-twitter"></i></a>
                   <a href=""><i class="icofont-facebook"></i></a>
@@ -64,7 +64,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="{{ asset('assets/img/3.jpeg') }}" class="img-fluid" alt="">
+                <img src="{{ asset('assets/img/3.jpeg') }}" style="height: 20rem" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="icofont-twitter"></i></a>
                   <a href=""><i class="icofont-facebook"></i></a>
@@ -83,7 +83,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="{{ asset('assets/img/4.jpeg') }}" class="img-fluid" alt="">
+                <img src="{{ asset('assets/img/4.jpeg') }}" style="height: 20rem" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="icofont-twitter"></i></a>
                   <a href=""><i class="icofont-facebook"></i></a>
@@ -102,12 +102,12 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="{{ asset('assets/img/7.jpeg') }}" class="img-fluid" alt="">
+                <img src="{{ asset('assets/img/7.jpg') }}" style="height: 20rem" class="img-fluid" alt="">
                 <div class="social">
-                  <a href=""><i class="icofont-twitter"></i></a>
-                  <a href=""><i class="icofont-facebook"></i></a>
-                  <a href=""><i class="icofont-instagram"></i></a>
-                  <a href=""><i class="icofont-linkedin"></i></a>
+                    <a href="https://twitter.com/_larteyrick?s=09" target="_blank"><i class="icofont-twitter"></i></a>
+                    <a href="https://www.facebook.com/wiz.d.rick" target="_blank"><i class="icofont-facebook"></i></a>
+                    <a href="https://www.instagram.com/invites/contact/?i=1pldpxgel41gx&utm_content=657c45" target="_blank"><i class="icofont-instagram"></i></a>
+                  <a href="" target="_blank"><i class="icofont-linkedin"></i></a>
                 </div>
               </div>
               <div class="member-info">
@@ -121,7 +121,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="{{ asset('assets/img/8.jpeg') }}" class="img-fluid" alt="">
+                <img src="{{ asset('assets/img/8.jpeg') }}" style="height: 20rem" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="icofont-twitter"></i></a>
                   <a href=""><i class="icofont-facebook"></i></a>
@@ -141,7 +141,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="{{ asset('assets/img/11.jpg') }}" class="img-fluid" alt="">
+                <img src="{{ asset('assets/img/11.jpg') }}" style="height: 20rem" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="icofont-twitter"></i></a>
                   <a href=""><i class="icofont-facebook"></i></a>
@@ -151,16 +151,16 @@
               </div>
               <div class="member-info">
                 <h4>ISAAC KWAKU NYARKO</h4>
-                <span>DRIVER AND CONSULTANT</span>
+                <span>AUTOMOTIVE MECHANICAL INSPECTOR</span>
                 <p><a href="{{ route('isaac') }}">Read Profile</a></p>
               </div>
             </div>
           </div>
 
-          {{-- <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
+                <img src="{{ asset('assets/img/13.jpeg') }}"  style="height: 20rem" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="icofont-twitter"></i></a>
                   <a href=""><i class="icofont-facebook"></i></a>
@@ -169,9 +169,9 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Amanda Jepson</h4>
-                <span>Accountant</span>
-                <p>Sint qui cupiditate. Asperiores fugit impedit aspernatur et mollitia. Molestiae qui placeat labore assumenda id qui nesciunt quo reprehenderit. Rem dolores similique quis soluta culpa enim quia ratione ea.</p>
+                <h4>GARDNER KWAME AMOAH</h4>
+                <span>CHIEF MARKETING OFFICER</span>
+                <p><a href="{{ route('amoah') }}">Read Profile</a></p>
               </div>
             </div>
           </div>
@@ -179,7 +179,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/team/team-5.jpg" class="img-fluid" alt="">
+                <img src="{{ asset('assets/img/12.jpeg') }}"  style="height: 20rem" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="icofont-twitter"></i></a>
                   <a href=""><i class="icofont-facebook"></i></a>
@@ -188,31 +188,14 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Niall Katz</h4>
-                <span>Marketing</span>
-                <p>Aut ex esse explicabo quia harum ea accusamus excepturi. Temporibus at quia quisquam veritatis impedit. Porro laborum voluptatum sed necessitatibus a saepe. Deserunt laborum quasi consequatur voluptatum iusto sint qui fuga vel. Enim eveniet sed quibusdam rerum in. Non dicta architecto consequatur quo praesentium nesciunt.</p>
+                <h4>DANIEL KWANZA ANDERSON</h4>
+                <span>GRAPHIC DESIGNER & DIGITAL MARKETER</span>
+                <p><a href="{{ route('daniel') }}">Read Profile</a></p>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-            <div class="member">
-              <div class="member-img">
-                <img src="assets/img/team/team-6.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="icofont-twitter"></i></a>
-                  <a href=""><i class="icofont-facebook"></i></a>
-                  <a href=""><i class="icofont-instagram"></i></a>
-                  <a href=""><i class="icofont-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Demi Lewis</h4>
-                <span>Financing</span>
-                <p>Amet labore numquam corrupti est. Nostrum amet voluptas consectetur dolor voluptatem architecto distinctio consequuntur eligendi. Quam impedit enim aut nesciunt aut dicta quam exercitationem. Reprehenderit exercitationem magnam. Ullam similique ut voluptas totam nobis porro accusamus nulla omnis.</p>
-              </div>
-            </div>
-          </div> --}}
+
 
         </div>
 

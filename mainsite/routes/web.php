@@ -78,7 +78,12 @@ Route::get('/valerie', function () {
 Route::get('/isaac', function () {
     return view('isaac');
 })->name('isaac');
-
+Route::get('/daniel', function () {
+    return view('daniel');
+})->name('daniel');
+Route::get('/amoah', function () {
+    return view('amoah');
+})->name('amoah');
 
 
 
