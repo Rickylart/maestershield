@@ -34,7 +34,7 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>EEDIE LYON OFEI</h4>
+                <h4>EDDIE LYON OFEI</h4>
                 <span>CHIEF EXECUTIVE OFFICER </span>
                 <p><a href="{{ route('eddie') }}">Read Profile</a></p>
               </div>
@@ -191,6 +191,25 @@
                 <h4>DANIEL KWANZA ANDERSON</h4>
                 <span>GRAPHIC DESIGNER & DIGITAL MARKETER</span>
                 <p><a href="{{ route('daniel') }}">Read Profile</a></p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <div class="member-img">
+                <img src="{{ asset('assets/img/14.jpeg') }}"  style="height: 20rem" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="icofont-twitter"></i></a>
+                  <a href=""><i class="icofont-facebook"></i></a>
+                  <a href=""><i class="icofont-instagram"></i></a>
+                  <a href=""><i class="icofont-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>CHARLES NIFAH-BIMPONG</h4>
+                <span>LOGISTICS MANAGER</span>
+                <p><a href="{{ route('charles') }}">Read Profile</a></p>
               </div>
             </div>
           </div>

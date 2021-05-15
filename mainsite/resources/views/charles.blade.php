@@ -1,5 +1,5 @@
 @extends('layouts.main')
-@section('title',"Eddie's Profile")
+@section('title',"Charles's Profile")
 @section('content')
     <!-- ======= Our Portfolio Section ======= -->
     <section class="breadcrumbs">
@@ -9,7 +9,7 @@
           <h2>Team Member Profile</h2>
           <ol>
             <li><a href="{{ route('index') }}">Home</a></li>
-            <li>Eddie's Profile</li>
+            <li>Charles's Profile</li>
           </ol>
         </div>
 
@@ -21,30 +21,26 @@
     <div class="container">
 
       <div class="section-title">
-        <h2 style="color:#D4AF37">EDDIE LYON OFEI</h2>
+        <h2 style="color:#D4AF37">CHARLES NIFAH-BIMPONG</h2>
         {{-- <p>Below are the servies and products we offer to the general public</p> --}}
       </div>
 
       <div class="row" data-aos="fade-up">
         <div class="col-md-5">
-          <img src="{{ asset('assets/img/1.jpeg') }}" class="img-fluid" alt="">
+          <img src="{{ asset('assets/img/14.jpeg') }}" class="img-fluid" alt="">
         </div>
         <div class="col-md-7 pt-4">
-          <h3 style="color:#D4AF37">CHIEF EXECUTIVE OFFICER </h3>
+          <h3 style="color:#D4AF37">LOGISTICS MANAGER</h3>
           <p class="font-italic">
-            Eddie Lyon Ofei is the founder, chairman and Ceo of Maester Shield Ltd, which was founded in May 2017. Eddie is an astute seasoned business  executive with 13 years of  corporate experience and holds a Diploma in Land and Estate managements, planing and marketing.
+            Charles Nifah-Bimpong is a native of Assin Fosu in the Central Region of the Republic of  Ghana and had his basic and secondary education there in his hometown. Charles is an
+            Intelligible person and always ready and want to learn more in his career. He is the co - founder and a program coordinator of Wealthy Helper Foundation.
           </p>
           <p class="font-italic">
-            He is keen responsible for setting the overall directions, product, service and elite innovations strategies for the company to become a global organisation, that will effectively utilize resources both in Ghana and overseas.
-          </p>
-
-          <p class="font-italic">
-            Before the birth of Maester Shield Ltd, He was with Perfect Care Company  Ltd. A Ghana - Indian based company where he served as a sales representative for a year. Eddie strives for excellence in all his professional  endeavors and was later promoted accordingly due to his marvelous achievements and contributions to serve in the office as the Executive Director of the Real Estate department from 2002 - 2016.
-          </p>
-
-          <p class="font-italic">
-            Eddie is a distinguished ethical team player and has always find marvelous excitements in making the world green again and loved by all he encounters. He has a penchant for exclusive architecture designs and ancient buildings and has also guided and grant exquisite ideas for the construction of some ideal facilities here in Ghana. Eddie began his career by studying Visual Art at Ghana Armed Forces Technical School and ever since gone through various institutions and has always believed that; Knowing thyself is the key to greater works.
-          </p>
+            Charles was an accounting and mathematics tutor at Assin Nsuta Senior High School and served same at Bright Child Academy - Winneba. Prior to Maester Shield Limited, he has worked as a portfolio Analyst at FirstBanC Financial Services from 2017 to 2020 and later joined Maester Shield Limited in 2021. He is currently serving in the Logistics Department as the Logistics Manager. He has a Bachelors of Commerce degree (B.Com) from Cape Coast University.
+        </p>
+       {{--    <p class="font-italic">
+            Sir Francisco is an accommodating approachable, loving and caring father figure to all and blessed with four lovely children, two men and two women. One of who in the USA, two in the United Kingdom, and the eldest in Ghana.
+          </p> --}}
 
 
         </div>

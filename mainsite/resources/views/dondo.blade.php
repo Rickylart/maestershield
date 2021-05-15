@@ -32,7 +32,7 @@
         <div class="col-md-7 pt-4">
           {{-- <h3>Dondo Hotel</h3> --}}
           <p class="font-italic">
-              Project is a new brainchild state of the art facility that is proposed to be located at Alliance Francaise,Airport Residential, in the capital city of Ghana-Accra.
+            The Project is a new brainchild state of the art facility that is proposed to be located at Alliance Francaise,Airport Residential, in the capital city of Ghana-Accra.
               It will include :
           </p>
           <div class="row">
@@ -40,7 +40,7 @@
                   <ul>
                       <li><i class="icofont-check"></i>An ultra-modern multi-purpose Auditorium</li>
                       <li><i class="icofont-check"></i> A Shopping Mall</li>
-                      <li><i class="icofont-check"></i>240 esquisite hotel rooms</li>
+                      <li><i class="icofont-check"></i>240 Exquisite hotel rooms</li>
                     </ul>
               </div>
 
@@ -54,7 +54,7 @@
 
           </div>
           <p class="font-italic">
-              The Dondo facility will be the first of it kind in the history of Ghana.
+              The Dondo facility will be the first of it's kind in the history of Ghana.
           </p>
           <a href="{{ asset('assets/document/Dondo.pdf') }}" download>Download PDF to know more</a>
         </div>
@@ -67,20 +67,14 @@
         <div class="col-md-12 pt-4">
           <h3 style="color:#D4AF37">The Dondo </h3>
           <p class="font-italic">
-            Is a name of an indigenous armpit talking drum which has its origins traced all the way back to the Ghana Empire and which was located in Western part of the African continent.
-            Prior it's usage, it was believed to have first been designed by a young drummer who had gotten the inspiration of making a two headed drums, sealed by animal skin and
-            connected to each other with stretched cords joining the two heads and pulling them tightly to impress his younger brother, with the two heads being beaten.
+            The Dondo is a name of an indigenous armpit talking drum which has its origins traced all the way back to the Gana Empire (Now Ghana), which is located in the Western part of the African continent. Prior to it's usage, it was believed to have first, been designed by a young drummer who had gotten the inspiration of making a two headed drum, sealed by animal skin and connected to each other with stretched cords joining the two heads and pulling them tightly to impress his younger brother, with the two heads being beaten.
           </p>
           <p class="font-italic">
-            These significant drum design kept changing the tones when placed in the armpit and played whiles ones arm thus tightening
-             and losing the connecting cords joining the two drum heads. Surprisingly, the tones thus produced sounded very much like their spoken language
-             and they realized that messages that could be  easily understood could be passed on to each other by in which the drums was played. Soon afterwards therefore,
-             many more of these drums where produced and came into common usage by being incorporated into their music making. Following the fall of the Ghana Empire, and
-             European colonization of Wast Africa, some of the West African countries adopted and continue to use the Dondo drums for several purposes, such as the transmission of  messages;
-            during the performance of various customary rites; during Durbars; funerals;  marriages; etc
+            This significant drum design kept changing the tones when placed in the armpit. It played whiles ones arm thus tightening  and losing the connecting cords joining the two drum heads. Surprisingly, the tones produced by these 2 drum heads sounded very much like their spoken language and then they realized that, messages could be easily understood and passed on to each other by the way the drums were played. Soon afterwards, many more of these drums where produced and they came into common usage by being incorporated into their music making
           </p>
           <p class="font-italic">
-            In Ghana today,the Dondo talking drums,are still been made and are mostly finished by adorning them with the Kente or Fugu cloths.
+            Following the fall of the Gana Empire (now Ghana) and European colonization of West Africa, some of the West African countries adopted and continue to use the Dondo drums for several purposes, such as the transmission of  messages during the performance of various customary rites; during Durbars; funerals;  marriages; etc
+            In Ghana today,the Dondo talking drums,are still being made and are mostly finished by adorning them with the Kente or Fugu cloths.
           </p>
           {{-- <div class="row">
               <div class="col-md-6">

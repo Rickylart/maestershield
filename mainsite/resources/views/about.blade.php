@@ -27,7 +27,7 @@
           <div class="col-lg-6 pt-4 pt-lg-0">
             <h3>Maester Shield Ltd. </h3>
             <p>Is an Enterprise Development Company in Ghana established in 2018 bringing it's expertise to various areas of business.</p>
-            <p>With the help of it's diversed and experienced team, Maester Shield Ltd. seeks to identify business opportunities and find the best means of capitalizing those oportunities with the aim creating value and improving the living standard of Africans whilst providing reasonable returns for all our investors.</p>
+            <p>With the help of it's diversed and experienced team, Maester Shield Ltd. seeks to identify business opportunities and find the best means of capitalizing those opportunities with the aim of creating value and improving the living standard of Africans whilst providing reasonable returns for all our investors.</p>
 
             <p>We Operate in several areas of business such as Real Estate, Tourism, Transportation and Cargo, Agro-business, Mining, Hospitality and Management etc. </p>
 

@@ -41,7 +41,7 @@
             He has been in the Graphic  design field since 2017 till date. </p>
 
           <p class="font-italic">
-         Danny as preferable called, joined Maester Shield Ltd in 2020 and currently serve in the company as the Digital Marketing Executive. He brought on deck an exceptional excellent skill and knowledge in Graphic Design, Motion Graphics and Video Editing software such as Photoshop, Illustration, Adobe after effects, Adobe premiere pro and Microsoft application ( word, excel, PowerPoint etc). He hold an HND in computer science from Accra Technical University. </p>
+         Danny as preferable called, joined Maester Shield Ltd in 2020 and currently serve in the company as the Digital Marketing Executive. He brought on deck an exceptional excellent skill and knowledge in Graphic Design, Motion Graphics and Video Editing software such as Photoshop, illustrator, Adobe after effects, Adobe premiere pro and Microsoft application ( word, excel, PowerPoint etc). He hold an HND in computer science from Accra Technical University. </p>
 
        {{--    <p class="font-italic">
             Sir Francisco is an accommodating approachable, loving and caring father figure to all and blessed with four lovely children, two men and two women. One of who in the USA, two in the United Kingdom, and the eldest in Ghana.
