@@ -87,6 +87,9 @@ Route::get('/amoah', function () {
 Route::get('/charles', function () {
     return view('charles');
 })->name('charles');
+Route::get('/earl', function () {
+    return view('earl');
+})->name('earl');
 
 
 

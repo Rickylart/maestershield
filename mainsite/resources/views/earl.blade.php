@@ -1,5 +1,5 @@
 @extends('layouts.main')
-@section('title',"Eddie's Profile")
+@section('title',"Earl's Profile")
 @section('content')
     <!-- ======= Our Portfolio Section ======= -->
     <section class="breadcrumbs">
@@ -9,7 +9,7 @@
           <h2>Team Member Profile</h2>
           <ol>
             <li><a href="{{ route('index') }}">Home</a></li>
-            <li>Eddie's Profile</li>
+            <li>Earl's Profile</li>
           </ol>
         </div>
 
@@ -21,30 +21,31 @@
     <div class="container">
 
       <div class="section-title">
-        <h2 style="color:#D4AF37">EDDIE LYON OFEI</h2>
+        <h2 style="color:#D4AF37">EARL ANKRAH</h2>
         {{-- <p>Below are the servies and products we offer to the general public</p> --}}
       </div>
 
       <div class="row" data-aos="fade-up">
         <div class="col-md-5">
-          <img src="{{ asset('assets/img/1.jpeg') }}" class="img-fluid" alt="">
+          <img src="{{ asset('assets/img/17.jpg') }}" style="height: 40rem" class="img-fluid" alt="">
         </div>
         <div class="col-md-7 pt-4">
-          <h3 style="color:#D4AF37">CHIEF EXECUTIVE OFFICER </h3>
+          <h3 style="color:#D4AF37">EXECUTIVE DIRECTOR OF COMMUNICATION</h3>
           <p class="font-italic">
-            Eddie Lyon Ofei is the founder, chairman and Ceo of Maester Shield Ltd, which was founded in May 2018. Eddie is an astute seasoned business  executive with 13 years of  corporate experience and holds a Diploma in Land and Estate managements, planing and marketing.
-          </p>
-          <p class="font-italic">
-            He is keen responsible for setting the overall directions, product, service and elite innovations strategies for the company to become a global organisation, that will effectively utilize resources both in Ghana and overseas.
-          </p>
+            Earl Ankrah is the Executive Director of Communication for Maester Shield Limited, overseeing the company's talent, development, strategies,equity, diversity,culture and employment. In his essential role, which he held since 2019.
+
+            Earl and his astounding team are always focused on creating a warm environment where employees can thrive and equip the company's success. </p>
 
           <p class="font-italic">
-            Before the birth of Maester Shield Ltd, He was with Perfect Care Company  Ltd. A Ghana - Indian based company where he served as a sales representative for a year. Eddie strives for excellence in all his professional  endeavors and was later promoted accordingly due to his marvelous achievements and contributions to serve in the office as the Executive Director of the Real Estate department from 2005 - 2016.
-          </p>
+            Earl is a proud product of Accra Academy after which he was enrolled to the Ghana Institute of Journalism both located in Accra, Ghana.
+            In his amazing earlier career as a journalist, he was a pioneer of a breakfast television show which he was the originator and main host aired on the most patronized television station known as GTV of the Ghana Broadcasting Corporation in the 90’s.
+            Also in his early days, he has granted some of the most spectacular interviews in Ghana and African, such as; interviews with the former president of Ghana John Kuffour, the then Minister of Communications, the vice president John Dramani Mahama and some outstanding top-level politicians including Ministers of State, Members of Parliament, Ambassadors, High Commissioners and Deplomats.
+             As well as interviews on the African's Continent with Lucky Dube- RIP, Dibango, Meiway, Youssor Ndour, Osibisa, Arrow( South American Calypso Legend ), Godfrey Moloy-RIP( God father of Soweto), National football players and Coaches ( Black Star), Miss Ghana, Miss Universe Ghana and Miss Malaika pageants and winners from all over the world. Earl, also was nominated and won five awesome awards from 1997-2002.
+            Following his appointment to the Fair Wages and Salaries Commission as the head of Public Affairs, he then petered out from the media space.
+        </p>
 
           <p class="font-italic">
-            Eddie is a distinguished ethical team player and has always find marvelous excitements in making the world green again and loved by all he encounters. He has a penchant for exclusive architecture designs and ancient buildings and has also guided and grant exquisite ideas for the construction of some ideal facilities here in Ghana. Eddie began his career by studying Visual Art at Ghana Armed Forces Technical School and ever since gone through various institutions and has always believed that; Knowing thyself is the key to greater works.
-          </p>
+            Earl has a Diploma in journalism ( Ghana Institute of Journalism), Then The Graduate School of Management( UK and Accra campuses) where he took a graduate course in Public Relations and also with the National Institute for Labour Economics Research and Development, New Delhi.</p>
 
 
         </div>

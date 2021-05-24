@@ -102,6 +102,25 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
+                <img src="{{ asset('assets/img/17.jpg') }}" style="height: 20rem" class="img-fluid" alt="">
+                <div class="social">
+                    <a href="https://twitter.com/_larteyrick?s=09" target="_blank"><i class="icofont-twitter"></i></a>
+                    <a href="https://www.facebook.com/wiz.d.rick" target="_blank"><i class="icofont-facebook"></i></a>
+                    <a href="https://www.instagram.com/invites/contact/?i=1pldpxgel41gx&utm_content=657c45" target="_blank"><i class="icofont-instagram"></i></a>
+                  <a href="" target="_blank"><i class="icofont-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>EARL ANKRAH</h4>
+                <span>EXECUTIVE DIRECTOR OF COMMUNICATION</span>
+                <p><a href="{{ route('earl') }}">Read Profile</a></p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <div class="member-img">
                 <img src="{{ asset('assets/img/7.jpg') }}" style="height: 20rem" class="img-fluid" alt="">
                 <div class="social">
                     <a href="https://twitter.com/_larteyrick?s=09" target="_blank"><i class="icofont-twitter"></i></a>
